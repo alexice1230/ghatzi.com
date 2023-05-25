@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.first{
+    border: 2px solid red;
+    margin-left: 100px;
+    margin-right: 900px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    background-color: #cccccc;
+    position: absolute;
+}
+
+.car1{
+    padding-left: 20px;
+    width: 200px;
+}
+
+.pret1{
+    margin-left: 100px;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.prank1{
+    text-decoration: none;
+    color: blue;
+}
+
+
+.another-car{
+    border: 2px solid red;
+    margin-left: 370px;
+    margin-right: 900px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    background-color: #cccccc;
+    position: absolute;
+}
+
+.car3{
+    border: 2px solid red;
+    margin-left: 640px;
+    margin-right: 900px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    background-color: #cccccc;
+    position: absolute;
+}
+
+.car4{
+    border: 2px solid red;
+    margin-left: 100px;
+    margin-right: 900px;
+    margin-top: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    background-color: #cccccc;
+    position: absolute;
+}
+
+.car5{
+    border: 2px solid red;
+    margin-left: 370px;
+    margin-right: 900px;
+    margin-top: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    background-color: #cccccc;
+    position: absolute;
+}
+
+.car6{
+    border: 2px solid red;
+    margin-left: 640px;
+    margin-right: 900px;
+    margin-top: 250px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    background-color: #cccccc;
+    position: absolute;
+}
+
+.Eu1{
+    border: 2px solid black;
+    background-color: #cccccc;
+    margin-left: 900px;
+    padding-bottom: 160px;
+}
+
+.pg1{
+    position: absolute;
+    margin-top: -400px;
+    text-decoration: none;
+    padding: 5px 5px;
+}
+
+@media only screen and (max-width: 550px) {
+
+    .pg1{
+        position: absolute;
+        margin-top: -1300px;
+        text-decoration: none;
+        padding: 5px 5px;
+    }
+
+    .first{
+        border: 2px solid red;
+        margin-left: 80px;
+        margin-right: 900px;
+        margin-top: 10px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 20px;
+        background-color: #cccccc;
+        position: absolute;
+    }
+
+    .another-car{
+        border: 2px solid red;
+        margin-left: 80px;
+        margin-right: 900px;
+        margin-top: 490px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 20px;
+        background-color: #cccccc;
+        position: absolute;
+    }
+    
+    .car3{
+        border: 2px solid red;
+        margin-left: 80px;
+        margin-right: 900px;
+        margin-top: 730px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 20px;
+        background-color: #cccccc;
+        position: absolute;
+    }
+    
+    .car4{
+        border: 2px solid red;
+        margin-left: 80px;
+        margin-right: 900px;
+        margin-top: 250px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 20px;
+        background-color: #cccccc;
+        position: absolute;
+    }
+    
+    .car5{
+        border: 2px solid red;
+        margin-left: 80px;
+        margin-right: 900px;
+        margin-top: 970px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 20px;
+        background-color: #cccccc;
+        position: absolute;
+    }
+    
+    .car6{
+        border: 2px solid red;
+        margin-left: 80px;
+        margin-right: 900px;
+        margin-top: 1210px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-right: 20px;
+        background-color: #cccccc;
+        position: absolute;
+    }
+
+    .Eu1{
+        border: 2px solid black;
+        background-color: #cccccc;
+        position: absolute;
+        margin-left: 0;
+        margin-top: 1450px;
+        background-color: white;
+        padding-top: 10px;
+    }
+    
+}
